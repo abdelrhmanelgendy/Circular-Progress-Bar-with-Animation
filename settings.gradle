@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Indeterminate Circular shape"
